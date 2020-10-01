@@ -13,4 +13,4 @@ STEPS:
 8. You should get a mail as well.
 9. End
 
-NOTE- If you change anywhere except your file, I'll mark your PR as invalid and it wont qualify for HacktoberFest
+NOTE- If you change anywhere except your file, I'll mark your PR as invalid and it wont qualify for HacktoberFes
